@@ -44,7 +44,7 @@ const Converter = () => {
       />
     );
   return (
-    <Box width={{ base: '90vw', sm: '45vw' }} margin="0 auto">
+    <Box width={{ base: '90vw', sm: '65vw' }} margin="0 auto">
       <ConverterHeader />
       <Grid
         templateColumns="repeat(5, 1fr)"
